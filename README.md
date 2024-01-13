@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AkshathKannan
-- 👀 I’m interested in computer
+- 👀 I’m interested in computers
 - 🌱 I’m currently learning Python, HTML and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
